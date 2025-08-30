@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ori Pinhas
-- 👀 I’m interested in Coding, Web Development
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning
